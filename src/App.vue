@@ -8,6 +8,11 @@ import Thanks from './components/Thanks.vue'
 <template>
   <header>
     <img class="logo" src="./assets/company.png" width="600" height="600" />
+      <nav>
+        <RouterLink to="/"></RouterLink>
+        <RouterLink to="/contact"></RouterLink>
+        <RouterLink to="/thanks"></RouterLink>
+      </nav>
   </header>
   <RouterView />
 </template>

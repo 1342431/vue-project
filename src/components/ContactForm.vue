@@ -11,7 +11,7 @@
       <input type="hidden" name="_next" value="https://1342431.com/thanks">
       <input type="hidden" name="_captcha" value="false">
       <input type="hidden" name="_template" value="table">
-      <button class="button-86" type="submit" @click="$router.push('/thanks')">Send</button>
+      <button class="button-86" type="submit">Send</button>
     </form>
   </div>
 </template>
