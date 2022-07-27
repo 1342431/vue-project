@@ -16,7 +16,7 @@
     <p>We help you understand your data through superior data analysis techniques.</p>
   </div>
   <div class="contact_button_css">
-    <button class="button-86" role="button" @click="$router.push('contact')">Contact</button>
+    <button class="button-86" role="button" @click="$router.push('thanks')">Contact</button>
   </div>
 </template>
 
